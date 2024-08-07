@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-drawing-elon_musk/static/css/main.01f09c28.css",
+    "main.js": "/app-drawing-elon_musk/static/js/main.0252850e.js",
+    "static/js/453.1663afc9.chunk.js": "/app-drawing-elon_musk/static/js/453.1663afc9.chunk.js",
+    "index.html": "/app-drawing-elon_musk/index.html",
+    "main.01f09c28.css.map": "/app-drawing-elon_musk/static/css/main.01f09c28.css.map",
+    "main.0252850e.js.map": "/app-drawing-elon_musk/static/js/main.0252850e.js.map",
+    "453.1663afc9.chunk.js.map": "/app-drawing-elon_musk/static/js/453.1663afc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01f09c28.css",
+    "static/js/main.0252850e.js"
+  ]
+}
