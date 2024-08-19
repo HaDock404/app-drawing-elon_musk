@@ -19,9 +19,6 @@ body {
     --quaternary-color: #657786; /*black*/
 }
 
-
-/*yellow*/
-
 .right-eye1{
     width: 14vmin;
     height: 4.6vmin;
@@ -177,9 +174,6 @@ body {
     border-right: 0vmin solid transparent;
     
 }
-/*yellow*/
-
-/*Orange*/
 
 .right-cheek3bis {
     width: 3.5vmin;
@@ -326,6 +320,7 @@ body {
     border-left: 3.25vmin solid transparent;
     border-right: 3.25vmin solid transparent;
 }
+
 .nose2{
     width: 6.5vmin;
     height: 0.9vmin;
@@ -342,6 +337,7 @@ body {
     top: -2.3vmin;
     left: -0.3vmin;
 }
+
 .nose4{
     width: 0.4vmin;
     height: 1.5vmin;
@@ -574,9 +570,7 @@ body {
     top: -53vmin;
     left: 48vmin;
 }
-/*Orange*/
 
-/*red*/
 .hair1 {
     width: 17.8vmin;
     height: 10vmin;
@@ -1191,9 +1185,6 @@ body {
     top: -26.7vmin;
     left: 32vmin;
 }
-/*red*/
-
-/*black*/
 
 .hair7{
     width: 12vmin;
@@ -2613,4 +2604,3 @@ body {
     top: -23vmin;
     left: -16vmin;
 }
-/*black*/

@@ -26,6 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 git clone https://github.com/HaDock404/app-drawing-elon_musk.git
 cd app-drawing-elon_musk
+npm install
 ```  
 
 ## Launch Application   
